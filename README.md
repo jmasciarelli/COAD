@@ -1,5 +1,5 @@
 # COSC4P02Project
-Group project for Professor Naser Ezzati-Jivan's COSC 4P02 class at Brock Universtiy.
+Group project for Professor Naser Ezzati-Jivan's COSC 4P02, Software Engineering 2 class at Brock Universtiy.
 Winter 2021 term.
 
 TITLE: Interactive Course Scheduler for Brock University<br>
@@ -18,6 +18,3 @@ Calvin Feng (6240790)<br>
 PROJECT SUMMARY:
 
 We are looking to develop a user friendly dashboard and organizer which will allow students to easily plan their course selection and see all of their options, which Brock does not currently have a centralized location for. Students will be able to see their program details and requirements, an overview of courses that they have already taken, and a credit tracker.
-
-Bonus Marks from Slide 11: https://courseofactiondashboardbrock.azurewebsites.net/
-Project deployed on Azure, link will take you to working site.
