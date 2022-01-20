@@ -25,5 +25,5 @@ Password: abc
 
 <img width="960" alt="coad login screenshot" src="https://user-images.githubusercontent.com/46304793/150377148-70425215-0331-44c1-999a-c14d45cbe152.png">
 
-<img alt="coad login screenshot" src="https://user-images.githubusercontent.com/46304793/150378976-219ebbda-7821-4d28-8149-1222437f3e5d.png">
-
+<img width="960" alt="coad top of screen" src="https://user-images.githubusercontent.com/46304793/150380286-24bc70d7-5da5-4c3b-9e48-0075c23c90c3.png">
+<img width="960" alt="coad bot of screen" src="https://user-images.githubusercontent.com/46304793/150380307-064cbcd9-cc0c-4c11-8555-40b31859feef.png">
