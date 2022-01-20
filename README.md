@@ -24,4 +24,5 @@ Email: ds16vx@brocku.ca
 Password: abc
 
 <img width="960" alt="coad login screenshot" src="https://user-images.githubusercontent.com/46304793/150377148-70425215-0331-44c1-999a-c14d45cbe152.png">
-![coad full screen](https://user-images.githubusercontent.com/46304793/150377170-5012f5be-ac5a-4170-8504-aa207c481df5.png)
+
+<img width="960" alt="coad full screenshot" src="https://user-images.githubusercontent.com/46304793/150377170-5012f5be-ac5a-4170-8504-aa207c481df5.png">
